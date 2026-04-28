@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/sources/하다라 룰 검색 요약.md",
+                "file": "wiki/games/캐슬 콤보.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "하다라 룰 검색 요약"
+              "title": "캐슬 콤보"
             }
           }
         ]
@@ -95,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/games/캐슬 콤보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "캐슬 콤보 의 백링크"
             }
           },
           {
@@ -113,11 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/games/캐슬 콤보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "캐슬 콤보 의 나가는 링크"
             }
           },
           {
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/games/캐슬 콤보.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "캐슬 콤보 의 개요"
             }
           }
         ],
@@ -210,7 +213,7 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "터미널: ⠼ Boardgames"
+              "title": "터미널: Boardgames"
             }
           }
         ]
@@ -232,8 +235,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6bc8a77d0838eece",
+  "active": "f920c9a7d7d2ed13",
   "lastOpenFiles": [
+    "wiki/games/테라포밍마스.md",
+    "wiki/sources/테라포밍마스 룰 검색 요약.md",
+    "wiki/rules/테라포밍마스 - 룰.md",
+    "raw/rules/테라포밍마스 - 룰 검색 요약 - 2026-04-28.md",
+    "wiki/sources/베일 오브 이터니티 룰 검색 요약.md",
+    "wiki/rules/베일 오브 이터니티 - 룰.md",
+    "wiki/games/베일 오브 이터니티.md",
+    "raw/rules/베일 오브 이터니티 - 룰 검색 요약 - 2026-04-28.md",
     "wiki/sources/하다라 룰 검색 요약.md",
     "wiki/sources/포레스트 셔플 룰 검색 요약.md",
     "wiki/sources/캐슬 콤보 룰 검색 요약.md",
@@ -252,14 +263,6 @@
     "wiki/rules/포레스트 셔플 - 룰.md",
     "wiki/rules/캐슬 콤보 - 룰.md",
     "wiki/rules/백로성 - 룰.md",
-    "wiki/games/포레스트 셔플.md",
-    "raw/rules/포레스트 셔플 - 룰 검색 요약 - 2026-04-28.md",
-    "wiki/games/하다라.md",
-    "wiki/games/캐슬 콤보.md",
-    "raw/rules/하다라 - 룰 검색 요약 - 2026-04-28.md",
-    "AGENTS.md",
-    "log.md",
-    "index.md",
     "wiki/strategy",
     "wiki/sources",
     "wiki/publishers",
