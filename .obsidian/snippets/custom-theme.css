@@ -1,0 +1,34 @@
+body {
+  --h2-color: rgb(27, 184, 40);
+
+  --h2-line-height: 4rem;
+  --h3-line-height: 2.5rem;
+  --h4-line-height: 2rem;
+
+  --h2-size: 1.7rem;
+  --h3-size: 1.3rem;
+  --h4-size: 1.2rem;
+
+  --callout-radius: 0.7rem;
+
+  --list-spacing: 0.2rem;
+  --list-indent: 3rem;
+
+  /* 리스트 말머리 색변경 */
+  /* --list-marker-color: rgb(197, 70, 70); */
+
+  --line-height-normal: 1.6;
+
+  /* --p-spacing: 1.75rem; */
+
+  --list-indent: 1.2rem;
+}
+
+/* 문단 간 간격 조절 */
+.markdown-source-view :is(.cm-line + .cm-line) {
+  padding-bottom: 0.5em !important;
+}
+
+.callout {
+  padding: 1.5rem 1.7rem;
+}
