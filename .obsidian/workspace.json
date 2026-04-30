@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/games/캐슬 콤보.md",
+                "file": "wiki/rules/7 원더스 대결 - 룰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "캐슬 콤보"
+              "title": "7 원더스 대결 - 룰"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "c563f1032405996b",
         "type": "tabs",
-        "dimension": 61.23595505617978,
+        "dimension": 43.541666666666664,
         "children": [
           {
             "id": "19633a484a01c6db",
@@ -95,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/games/캐슬 콤보.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "캐슬 콤보 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -114,12 +113,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/games/캐슬 콤보.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "캐슬 콤보 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -157,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/games/캐슬 콤보.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "캐슬 콤보 의 개요"
+              "title": "개요"
             }
           }
         ],
@@ -172,7 +169,7 @@
       {
         "id": "f3033204fa954cea",
         "type": "tabs",
-        "dimension": 38.764044943820224,
+        "dimension": 56.458333333333336,
         "children": [
           {
             "id": "6bc8a77d0838eece",
@@ -213,14 +210,14 @@
               },
               "pinned": true,
               "icon": "terminal",
-              "title": "터미널: Boardgames"
+              "title": "터미널: ⠙ Boardgames"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 695.5
+    "width": 1098.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,34 +232,34 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f920c9a7d7d2ed13",
+  "active": "6bc8a77d0838eece",
   "lastOpenFiles": [
-    "wiki/games/테라포밍마스.md",
-    "wiki/sources/테라포밍마스 룰 검색 요약.md",
-    "wiki/rules/테라포밍마스 - 룰.md",
-    "raw/rules/테라포밍마스 - 룰 검색 요약 - 2026-04-28.md",
-    "wiki/sources/베일 오브 이터니티 룰 검색 요약.md",
-    "wiki/rules/베일 오브 이터니티 - 룰.md",
-    "wiki/games/베일 오브 이터니티.md",
-    "raw/rules/베일 오브 이터니티 - 룰 검색 요약 - 2026-04-28.md",
-    "wiki/sources/하다라 룰 검색 요약.md",
-    "wiki/sources/포레스트 셔플 룰 검색 요약.md",
-    "wiki/sources/캐슬 콤보 룰 검색 요약.md",
-    "wiki/sources/카르디아 룰 검색 요약.md",
-    "wiki/sources/보스크 룰 검색 요약.md",
-    "wiki/sources/백로성 룰 검색 요약.md",
-    "wiki/games/백로성.md",
-    "wiki/rules/카르디아 - 룰.md",
-    "wiki/games/카르디아.md",
-    "raw/rules/카르디아 - 룰 검색 요약 - 2026-04-28.md",
-    "wiki/rules/보스크 - 룰.md",
-    "wiki/games/보스크.md",
-    "raw/rules/보스크 - 룰 검색 요약 - 2026-04-28.md",
-    "raw/rules/백로성 - 룰 검색 요약 - 2026-04-28.md",
-    "wiki/rules/하다라 - 룰.md",
-    "wiki/rules/포레스트 셔플 - 룰.md",
-    "wiki/rules/캐슬 콤보 - 룰.md",
+    "wiki/rules/오를로이 - 룰.md",
+    "wiki/games/오를로이.md",
+    "wiki/sources/오를로이 룰 검색 요약.md",
+    "raw/rules/오를로이 - 룰 검색 요약 - 2026-04-30.md",
+    "wiki/rules/7 원더스 대결 - 룰.md",
+    "wiki/rules/7 원더스 - 룰.md",
     "wiki/rules/백로성 - 룰.md",
+    "wiki/rules/백로성-말차 - 룰.md",
+    "wiki/sources/7 원더스 대결 룰 검색 요약.md",
+    "wiki/sources/7 원더스 룰 검색 요약.md",
+    "raw/rules/헤게모니 - 룰 검색 요약 - 2026-04-30.md",
+    "raw/rules/테라포밍마스 - 룰 검색 요약 - 2026-04-28.md",
+    "wiki/rules/베일 오브 이터니티 - 룰.md",
+    "wiki/rules/듄: 임페리움 - 룰.md",
+    "wiki/sources/전체 게임 평점 검색 요약.md",
+    "raw/rules/전체 게임 평점 검색 요약 - 2026-04-30.md",
+    "wiki/rules/그랜드 오스트리아 호텔 - 룰.md",
+    "wiki/rules/기즈모 - 룰.md",
+    "wiki/games/캐슬 콤보.md",
+    "wiki/games/7 원더스.md",
+    "wiki/games/7 원더스 대결.md",
+    "wiki/games/그랜드 오스트리아 호텔.md",
+    "raw/rules/콩코르디아 - 룰 검색 요약 - 2026-04-30.md",
+    "raw/rules/캐슬 콤보 - 룰 검색 요약 - 2026-04-28.md",
+    "raw/rules/그랜드 오스트리아 호텔 - 룰 검색 요약 - 2026-04-30.md",
+    "raw/rules/7 원더스 - 룰 검색 요약 - 2026-04-29.md",
     "wiki/strategy",
     "wiki/sources",
     "wiki/publishers",
