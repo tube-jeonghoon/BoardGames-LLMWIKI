@@ -9,7 +9,7 @@ designers: [Vital Lacerda]
 publishers: [Eagle-Gryphon Games, Korea Boardgames]
 first_published: 2020
 tags: [boardgame, game]
-updated: 2026-04-30
+updated: 2026-05-01
 ---
 
 # 칸반 EV
@@ -36,6 +36,7 @@ updated: 2026-04-30
   - BGG/BoardGameOracle: 8.4/10
   - 보드라이프: 8.3/10
   - BoardMatch: 7.8/10
+- 언어의존도: 보드라이프 기준 없음
 - 메커니즘:
   - BoardGameOracle/BoardMatch: Action Points, Hand Management, Variable Phase Order, Worker Placement
   - 보드라이프: 액션 포인트, 핸드 관리, 일꾼 놓기, 단계 순서 변화

@@ -2,7 +2,7 @@
 type: rule
 game: 칸반 EV
 tags: [rule]
-updated: 2026-04-30
+updated: 2026-05-01
 ---
 
 # 🎲 칸반 EV
@@ -22,6 +22,7 @@ updated: 2026-04-30
 | 난이도 | BGG: 4.30/5 / 보드라이프: 4.30 / BoardGameOracle·BoardMatch: 4.3/5 |
 | 플레이 시간 | BGG·보드라이프·BoardGameOracle·BoardMatch: 60-180분 |
 | 평점 | BGG·BoardGameOracle: 8.4/10 / 보드라이프: 8.3/10 / BoardMatch: 7.8/10 |
+| 언어의존도 | 보드라이프 기준 없음 |
 
 > 확인 출처: BGG `Kanban EV`, 보드라이프 `칸반 EV`
 
